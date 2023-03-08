@@ -1,0 +1,8 @@
+C:\DevC\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+C:\DevC\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+C:\DevC\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+C:\DevC\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\DevC\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\DevC\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+C:\DevC\Colecoes\Colecoes\obj\Debug\Colecoes.pdb
