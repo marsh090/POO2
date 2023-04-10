@@ -1,0 +1,8 @@
+C:\DevC\Veiculo\Veiculo\bin\Debug\Veiculo.exe.config
+C:\DevC\Veiculo\Veiculo\bin\Debug\Veiculo.exe
+C:\DevC\Veiculo\Veiculo\bin\Debug\Veiculo.pdb
+C:\DevC\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.AssemblyReference.cache
+C:\DevC\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.CoreCompileInputs.cache
+C:\DevC\Veiculo\Veiculo\obj\Debug\Veiculo.exe
+C:\DevC\Veiculo\Veiculo\obj\Debug\Veiculo.pdb
