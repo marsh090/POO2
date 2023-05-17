@@ -1,0 +1,32 @@
+C:\DevC\SGE\SGE\bin\Debug\SGE.exe.config
+C:\DevC\SGE\SGE\bin\Debug\SGE.exe
+C:\DevC\SGE\SGE\bin\Debug\SGE.pdb
+C:\DevC\SGE\SGE\obj\Debug\SGE.csproj.AssemblyReference.cache
+C:\DevC\SGE\SGE\obj\Debug\SGE.csproj.SuggestedBindingRedirects.cache
+C:\DevC\SGE\SGE\obj\Debug\SGE.Form1.resources
+C:\DevC\SGE\SGE\obj\Debug\SGE.Form2.resources
+C:\DevC\SGE\SGE\obj\Debug\SGE.Form3.resources
+C:\DevC\SGE\SGE\obj\Debug\SGE.Form4.resources
+C:\DevC\SGE\SGE\obj\Debug\SGE.Form5.resources
+C:\DevC\SGE\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\DevC\SGE\SGE\obj\Debug\SGE.csproj.GenerateResource.cache
+C:\DevC\SGE\SGE\obj\Debug\SGE.csproj.CoreCompileInputs.cache
+C:\DevC\SGE\SGE\obj\Debug\SGE.exe
+C:\DevC\SGE\SGE\obj\Debug\SGE.pdb
+E:\Codes\C#\Atividade 4 SGE\SGE\bin\Debug\SGE.exe.config
+E:\Codes\C#\Atividade 4 SGE\SGE\bin\Debug\SGE.exe
+E:\Codes\C#\Atividade 4 SGE\SGE\bin\Debug\SGE.pdb
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.csproj.AssemblyReference.cache
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.csproj.SuggestedBindingRedirects.cache
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.Form1.resources
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.Form2.resources
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.Form3.resources
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.Form4.resources
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.Form5.resources
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.Properties.Resources.resources
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.csproj.GenerateResource.cache
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.csproj.CoreCompileInputs.cache
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.exe
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.pdb
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.Form6.resources
+E:\Codes\C#\Atividade 4 SGE\SGE\obj\Debug\SGE.Form7.resources
